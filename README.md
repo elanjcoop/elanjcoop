@@ -1,4 +1,4 @@
-### Hi there! I am Elan Cooper, a junior at Columbia in NYC👋
+### Hi there! I am Elan Cooper, a senior at Columbia in NYC👋
 
 - 🔭 I’m currently working on a couple cool video game auxilliary scripts
 - 🌱 I’m currently learning JavaScript
